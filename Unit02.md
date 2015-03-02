@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHYS101: Introduction to Mechanics"
+course_description: "A basic introduction to the current physical understanding of our universe, including an examination of basic principles of physical laws, their application to the behavior of objects, and the use of the scientific method in driving advances in this knowledge."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Motion in a Straight Line** <span id="2"></span> 
 *Our formal study of physics begins with* kinematics, *which is defined
 as the* study of motion without considering its causes.  *The word

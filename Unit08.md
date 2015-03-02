@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHYS101: Introduction to Mechanics"
+course_description: "A basic introduction to the current physical understanding of our universe, including an examination of basic principles of physical laws, their application to the behavior of objects, and the use of the scientific method in driving advances in this knowledge."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Statics and Torque** <span id="8"></span> 
 *What might desks, bridges, buildings, trees, and mountains have in
 common – at least in the eyes of a physicist? The answer is that they

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHYS101: Introduction to Mechanics"
+course_description: "A basic introduction to the current physical understanding of our universe, including an examination of basic principles of physical laws, their application to the behavior of objects, and the use of the scientific method in driving advances in this knowledge."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Work and Energy** <span id="6"></span> 
 *Energy is the capacity of a physical system to perform work. It* *plays
 an essential role both in everyday events and in scientific phenomena.

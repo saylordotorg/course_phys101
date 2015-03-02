@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHYS101: Introduction to Mechanics"
+course_description: "A basic introduction to the current physical understanding of our universe, including an examination of basic principles of physical laws, their application to the behavior of objects, and the use of the scientific method in driving advances in this knowledge."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Kinematics in Two Dimensions** <span id="3"></span> 
 *Most motions in nature follow curved paths rather than straight lines.
 Motion along a curved path on a flat surface or a plane is

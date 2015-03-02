@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHYS101: Introduction to Mechanics"
+course_description: "A basic introduction to the current physical understanding of our universe, including an examination of basic principles of physical laws, their application to the behavior of objects, and the use of the scientific method in driving advances in this knowledge."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Angular Momentum** <span id="9"></span> 
 *Why do tornadoes spin so rapidly? The answer is that the air masses
 that produce tornadoes are themselves rotating, and when the radii of

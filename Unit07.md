@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHYS101: Introduction to Mechanics"
+course_description: "A basic introduction to the current physical understanding of our universe, including an examination of basic principles of physical laws, their application to the behavior of objects, and the use of the scientific method in driving advances in this knowledge."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Momentum and Collisions** <span id="7"></span> 
 *We use the term momentum in various ways in everyday language. We speak
 of sports teams gaining and maintaining the momentum to win. Generally,

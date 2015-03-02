@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHYS101: Introduction to Mechanics"
+course_description: "A basic introduction to the current physical understanding of our universe, including an examination of basic principles of physical laws, their application to the behavior of objects, and the use of the scientific method in driving advances in this knowledge."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Physics** <span id="1"></span> 
 *Our first step in this course is to gain a basic understanding of the
 language and analytical techniques that are specific to physics.  This
